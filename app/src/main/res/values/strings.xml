@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleSignInWithFirebaseAuth</string>
+    <string name="web_client_id">890337458256-pvlg3pmees85pb9fs485si0dtmtvk858.apps.googleusercontent.com</string>
+</resources>
